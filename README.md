@@ -4,7 +4,7 @@ This Tableau dashboard analyzes singles badminton performance in the BWF (Badmin
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot](bwf-image.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 > *This dashboard includes interactive filters for year, discipline (Men's/Women's Singles), and country.*
 
