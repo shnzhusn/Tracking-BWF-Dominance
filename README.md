@@ -16,11 +16,28 @@ This Tableau dashboard analyzes singles badminton performance in the BWF (Badmin
   - Win distribution between Men's Singles and Women's Singles.
   - Percentage of wins achieved on **home ground** vs. **away**.
 
+## 🖼️ Data Story Screenshots
+
+![Dominating Countries](images/dominating-countries.png)
+
+---
+
+![Top Players](images/top-players.png)
+
+---
+
+![Wins by Year](images/wins-by-year.png)
+
+---
+
+
 ## 📂 Repository Contents
 
-- `singles_showdown.twbx`: Tableau Packaged Workbook
-- `images/singles-showdown.png`: Dashboard screenshot
-- `README.md`: Project overview and documentation
+- `Tracking BWF Dominance Dashboard.twbx`: Tableau Packaged Workbook
+- `images`: Dashboard & Data Story screenshots
+- `BWF combined singles.csv`: Combined dataset
+- `Report.pdf`: Project report
+- `README.md`: Project overview
 
 ## 📥 How to View
 
