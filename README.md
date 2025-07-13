@@ -4,7 +4,7 @@ This Tableau dashboard analyzes singles badminton performance in the BWF (Badmin
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot](images/singles-showdown.png)
+![Dashboard Screenshot](bwf-image.png)
 
 > *This dashboard includes interactive filters for year, discipline (Men's/Women's Singles), and country.*
 
@@ -30,7 +30,7 @@ Download the `.twbx` file and open it using:
 - Tableau Desktop
 
 ### 🌐 Option 2: View on Tableau Public
-👉: [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/shahnaz.husain/viz/TrackingBWFDominanceDashboard/SinglesShowdownDashboard)
+- [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/shahnaz.husain/viz/TrackingBWFDominanceDashboard/SinglesShowdownDashboard)
 
 ## 📌 Key Insights
 
